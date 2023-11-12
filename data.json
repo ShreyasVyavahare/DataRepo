@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "username": "john_doe",
+        "email": "john.doe@email.com",
+        "name": {
+            "first": "John",
+            "last": "Doe"
+        },
+        "address": {
+            "street": "123 Main Street",
+            "city": "Exampleville",
+            "zipcode": "12345",
+            "country": "United States"
+        },
+        "phone": "+1 (555) 123-4567",
+        "dob": "1990-05-15",
+        "registration_date": "2022-01-01",
+        "is_active": true,
+        "roles": ["user", "admin"],
+        "profile_picture": "https://example.com/john_doe.jpg"
+    },
+    {
+        "id": 2,
+        "username": "jane_smith",
+        "email": "jane.smith@email.com",
+        "name": {
+            "first": "Jane",
+            "last": "Smith"
+        },
+        "address": {
+            "street": "456 Oak Avenue",
+            "city": "Sampletown",
+            "zipcode": "67890",
+            "country": "Canada"
+        },
+        "phone": "+1 (555) 987-6543",
+        "dob": "1985-08-22",
+        "registration_date": "2022-02-15",
+        "is_active": true,
+        "roles": ["user"],
+        "profile_picture": "https://example.com/jane_smith.jpg"
+    },
+    {
+        "id": 3,
+        "username": "alex_jones",
+        "email": "alex.jones@email.com",
+        "name": {
+            "first": "Alex",
+            "last": "Jones"
+        },
+        "address": {
+            "street": "789 Pine Street",
+            "city": "Model City",
+            "zipcode": "54321",
+            "country": "Australia"
+        },
+        "phone": "+61 2 1234 5678",
+        "dob": "1988-12-10",
+        "registration_date": "2022-03-20",
+        "is_active": true,
+        "roles": ["user"],
+        "profile_picture": "https://example.com/alex_jones.jpg"
+    },
+    {
+        "id": 4,
+        "username": "emily_wang",
+        "email": "emily.wang@email.com",
+        "name": {
+            "first": "Emily",
+            "last": "Wang"
+        },
+        "address": {
+            "street": "101 Willow Lane",
+            "city": "Sampleville",
+            "zipcode": "98765",
+            "country": "China"
+        },
+        "phone": "+86 10 8765 4321",
+        "dob": "1995-04-18",
+        "registration_date": "2022-04-25",
+        "is_active": true,
+        "roles": ["user"],
+        "profile_picture": "https://example.com/emily_wang.jpg"
+    }
+    
+]
